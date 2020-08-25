@@ -60,4 +60,4 @@ This project is under a licensa - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Made with 💞 by FelipeSuri.
+Made with ❤ by FelipeSuri.
